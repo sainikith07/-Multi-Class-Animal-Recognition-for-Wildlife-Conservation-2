@@ -10,7 +10,7 @@ This project implements a multi-class image classifier for 90 animal categories 
 - **Classes**: 90 animal categories
 - **Format**: Directory of images grouped by class name    
   
----
+--- 
 
 ## 📌 Features
 
