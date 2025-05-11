@@ -1,7 +1,7 @@
 # 🐾 Multi-Class Animal Image Classification using MobileNetV2
 
 This project implements a multi-class image classifier for 90 animal categories using **Transfer Learning** with **MobileNetV2**. The dataset is sourced from Kaggle and includes thousands of labeled animal images. The model is trained and evaluated using TensorFlow and Keras.
-
+ 
 ---
 
 ## 📂 Dataset
